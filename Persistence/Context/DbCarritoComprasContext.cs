@@ -1,7 +1,7 @@
 ﻿using Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Persistence;
+namespace Persistence.Context;
 
 public partial class DbCarritoComprasContext : DbContext
 {
